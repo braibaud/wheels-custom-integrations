@@ -1,0 +1,6 @@
+{
+    "name": "AirThings",
+    "owner": ["@braibaud"],
+    "manifest": "https://raw.githubusercontent.com/braibaud/airthings-integration/master/custom_components/airthings_integration/manifest.json",
+    "url": "https://github.com/braibaud/airthings-integration"
+}
